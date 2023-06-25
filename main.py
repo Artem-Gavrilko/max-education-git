@@ -1,4 +1,3 @@
-
 """ 1 занятие - Практика """
 s = 'aaaaa'
 def character_counter_v1(s):
