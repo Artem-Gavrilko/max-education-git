@@ -1,0 +1,23 @@
+h1 {
+    background: red;
+}
+
+p.par-1 {
+    font-size: 14pt;
+    color: green;
+}
+
+p.par-2 {
+    font-size: 5pt;
+    color: grey;
+}
+
+.border {
+    border: 10 px solid yellow;
+    border-radius: 5 px;
+}
+
+div {
+    font-family: Arial;
+    font-weight: bold;
+}
