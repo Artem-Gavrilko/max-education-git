@@ -4,7 +4,7 @@ h1 {
 
 p.par-1 {
     font-size: 14pt;
-    color: green;
+    color: yellow;
 }
 
 p.par-2 {
@@ -20,4 +20,10 @@ p.par-2 {
 div {
     font-family: Arial;
     font-weight: bold;
+}
+p.nort {
+    font-size: 24px;
+    font-style: oblique;
+    text-align: center;
+    text-shadow:  1px 3px 2px green;
 }
